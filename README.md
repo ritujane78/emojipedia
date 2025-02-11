@@ -1,0 +1,1 @@
+This is a simple React app showing the meaning of some popular emojis.
