@@ -61,6 +61,69 @@ const emojipedia = [
     name: "Face With Monocle",
     meaning:
       "With its monocle, this represents a face that was considered a status symbol in the 19th century. It shows furrowed eyebrows and a slightly raised head, as if examining something closely. Used to indicate that something seems suspicious to you, or that you are making a skeptical or ironic observation. In this way, it encourages close examination and promotes critical thinking. At the same time, it can also convey a certain sophistication or smug intelligence, as if you're acting like a “smartass“. Great for casting a wary eye around, this emoji is a fancier version of the brooding smiley face.",
+  },  
+  {
+    id: 9,
+    emoji: "🐾",
+    name: "Paw Prints",
+    meaning:
+      "\“Follow the trail\” or \“I have a new pet\”. The imprints can indicate an animal with paws such as dogs, cats, bears, lions, etc. The emoji is mostly used in conversations relating to animals.",
+  },
+  {
+    id: 10,
+    emoji: "🫣",
+    name: "Face With Peeking Eye",
+    meaning:
+      "I just can't look away! Something is quite terrible or unpleasant. Still, you really want to know what's happening. Can also mean don't look at me. I am not happy with the way I look. For example, because I look tired.",
+  },
+  {
+    id: 11,
+    emoji: "🍼",
+    name: "Baby Bottle",
+    meaning:
+      "I have to feed the baby. Generally refers to babies and feeding. Can also be used disparagingly, if someone behaves childishly or immaturely.",
+  },
+  {
+    id: 12,
+    emoji: "😕",
+    name: "Confused Face",
+    meaning:
+      "A puzzled face 😕 expresses confusion or disagreement. The eyes are open and the forehead is tilted, as if the cheeks are pressed together or the lips are puckered. It signals uncertainty and dissatisfaction with a situation and shows that something else has been imagined. Although it expresses wonder or hesitation, it is also often used to express mild sadness, disappointment, or frustration. It can also be used in moments when one is seeking clarity or reacting to an unexpected turn of events.",
+  },
+  {
+    id: 13,
+    emoji: "🧘",
+    name: "Person in the lotus position",
+    meaning:
+      "Classical sitting posture of the yogi and sitting position in meditation. Represents inner balance, even temper, flexibility, calmness and strength.",
+  },
+  {
+    id: 14,
+    emoji: "🌵",
+    name: "Cactus",
+    meaning:
+      "I love the old western movies! On our next vacation, we are going to a hot desert region or someone wants to go to a Mexican restaurant! Can also refer to a stubborn person.",
+  },
+  {
+    id: 15,
+    emoji: "😶‍🌫️",
+    name: "Face in clouds",
+    meaning:
+      "This is nebulous! The face is surrounded by fog or clouds. Those who have their heads in the clouds are either dreamy or do not want to admit reality. The view of something is blurred. There may also be a state of confusion or bliss.",
+  },  
+  {
+    id: 16,
+    emoji: "🚧",
+    name: "Construction sign",
+    meaning:
+      "The construction sites have kept me back! Indicates construction work on buildings or roads. There may be delays or traffic problems. Also possible: A website is being worked on or in maintenance mode, or a project is still under constructio",
+  },
+  {
+    id: 17,
+    emoji: "🪇",
+    name: "Rumba Rattles (Maracas)",
+    meaning:
+      "This represents rhythm, music, and especially playing maracas. It often symbolizes Latin American culture and musical styles such as salsa or samba. In chats, it's used to refer to music events, parties, or dance gatherings. Other associations include the energy and zest for life that comes from playing maracas. Finally, it can express a cheerful and exuberant mood accompanied by these rhythmic instruments.",
   },
 ];
 
